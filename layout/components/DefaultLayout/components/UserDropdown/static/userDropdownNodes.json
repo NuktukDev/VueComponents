@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/profile",
+    "icon": "person",
+    "text": "Profile"
+  },
+  {
+    "path": "/logout",
+    "icon": "logout",
+    "text": "Logout"
+  }
+]
